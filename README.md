@@ -3,7 +3,7 @@ Here’s how to run your Django application and test the APIs for user authentic
 Run the Code
 1. Set Up Your Django Project: If you don’t already have a Django project, create one:
    django-admin startproject task_manager
-   cd task_manager
+   cd task_manager 
 2. Create a Django App: Create an app where the Task model and views will live:
    python manage.py startapp tasks
 3. Migrate the Database: Run the following commands to apply migrations:
